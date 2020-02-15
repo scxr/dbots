@@ -2,7 +2,7 @@ import discord, youtube_dl, os
 from discord.ext import commands
 from discord.utils import get
 
-TOKEN = 'Njc4MTg0NDM5MjQ3MDExODQw.Xkf9_w.FwZos7G2gdBkCaEwGk9XTgWcPis'
+TOKEN = 'TOKEN'
 BOT_PREFIX = '~'
 
 
